@@ -1,0 +1,22 @@
+---
+title: "Yay"
+author: "Gabriel Kelvin"
+date: "9/30/2021"
+output: output: 
+  html_document:
+    lib_dir: libs
+    nature:
+      ratio: '16:9'
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+  #      slideNumberFormat: |
+  #          <div class="progress-bar" style="width: calc(%current% / %total% * 100%);">
+---
+
+### This is where links to slides could go.  
+
+Name of event 1 with [link to slides](01-test.html) - Author (Date)  
+
+Name of event 2 with [link to slides](02-test.html) - Author (Date) 
+
