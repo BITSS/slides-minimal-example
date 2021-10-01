@@ -2,7 +2,7 @@
 title: "Yay"
 author: "Gabriel Kelvin"
 date: "9/30/2021"
-output: output: 
+output: 
   html_document:
     lib_dir: libs
     nature:
